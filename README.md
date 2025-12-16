@@ -15,6 +15,8 @@ Pixel-accurate eCommerce homepage built using HTML, CSS, and JavaScript.
 https://"C://Users//TAWAD//Downloads//index.html"
 https://gauri-creator.github.io/kilangi-homepage/
 
+https://github.com/gauri-creator/kilangi-homepage/blob/main/index.html
+
 ## Tech Stack
 - HTML5
 - CSS3
