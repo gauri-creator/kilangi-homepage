@@ -12,7 +12,7 @@ Pixel-accurate eCommerce homepage built using HTML, CSS, and JavaScript.
 - Optimized assets
 
 ## Live Demo
-https://your-live-link-here
+https://"C://Users//TAWAD//Downloads//kilangi_e_commerce_homepage (3).html"
 
 ## Tech Stack
 - HTML5
